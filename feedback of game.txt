@@ -1,0 +1,4 @@
+FEEDBACK
+
+1: Bottle not resetting to its original position
+2: Activities after bottle is spun - truth or dare
